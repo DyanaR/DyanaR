@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hey, I'm Dyana 👋
+
+An inspiring software developer who loves to create technology that elevates and builds community. I'm currently majoring in computer science. Working on learning languages, building projects, and developing skills.
+
+## Find me 🖥
+[Linkedin](https://www.linkedin.com/in/dyana-rahhal-b39667227/)
+
+
+
+
 
 <!--
 **DyanaR/DyanaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

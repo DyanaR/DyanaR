@@ -2,8 +2,6 @@
 
 An inspiring software developer who loves to create technology that elevates and builds community. I'm currently majoring in computer science. Working on learning languages, building projects, and developing my skills.
 
-## Find me 🖥
-[Linkedin](https://www.linkedin.com/in/dyana-rahhal-b39667227/)
 
 
 
